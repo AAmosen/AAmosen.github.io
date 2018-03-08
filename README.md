@@ -1,1 +1,1 @@
-# htmlSkabelon
+# Åmose workshop hoved side
